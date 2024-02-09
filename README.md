@@ -25,7 +25,6 @@ Where-in-USTHB  is an innovative Android mobile app designed to assist new stude
   <img width= 300; src="Screenshots/3.jpg">
 </p>.
 
-## Contributors
-
-- [@RB-Younes](https://github.com/RB-Younes)
+## Collaborators
 - [@NaaaaaaaaaaDaa](https://github.com/NaaaaaaaaaaDaa)
+- [@RB-Younes](https://github.com/RB-Younes)
